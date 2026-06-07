@@ -22,7 +22,6 @@ import {
 import { ChevronRight, CheckCircle2 } from "lucide-react";
 import { useTranslations } from "@/lib/locale-context";
 import Image from "next/image";
-import huggedLogo from '@/public/hugged-logo.png'
 
 export function ComposeNav({ onNavigate }: { onNavigate: (id: string) => void }) {
   const messages = useTranslations();
@@ -51,7 +50,7 @@ export function ComposeNav({ onNavigate }: { onNavigate: (id: string) => void })
           className="flex items-center gap-3 text-left"
         >
           <span className="flex h-10 w-10 items-center justify-center rounded-full bg-coral-soft text-coral shadow-[0_8px_28px_rgba(255,122,107,0.16)] font-semibold">
-            <Image src={huggedLogo} alt="Hugged logo" width={20} height={20} />
+            <Image src="/hugged-logo.png" alt="Hugged logo" width={20} height={20} />
           </span>
           <span>
             <span className="block font-heading text-lg font-semibold tracking-tight text-foreground">
