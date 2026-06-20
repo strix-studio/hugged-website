@@ -5,26 +5,12 @@ import Lenis from "lenis";
 import { ComposeNav } from "./hugged-landing/ComposeNav";
 import { FooterSection } from "./hugged-landing/FooterSection";
 import { Hero } from "./hugged-landing/Hero";
-import { SocialProofSection } from "./hugged-landing/SocialProofSection";
-import { ProblemSection } from "./hugged-landing/ProblemSection";
 import { HowHuggedHelpsSection } from "./hugged-landing/HowHuggedHelpsSection";
-import { PlatformEcosystemSection } from "./hugged-landing/PlatformEcosystemSection";
-import { HowItWorksSection } from "./hugged-landing/HowItWorksSection";
-import { AgeWiseSection } from "./hugged-landing/AgeWiseSection";
 import { FeaturesSection } from "./hugged-landing/FeaturesSection";
-import { HomeschoolSection } from "./hugged-landing/HomeschoolSection";
-import { CommunitySection } from "./hugged-landing/CommunitySection";
-import { MeetupSection } from "./hugged-landing/MeetupSection";
-import { ExpertNetworkSection } from "./hugged-landing/ExpertNetworkSection";
-import { WebinarsSection } from "./hugged-landing/WebinarsSection";
-import { ResourceLibrarySection } from "./hugged-landing/ResourceLibrarySection";
-import { SafetySection } from "./hugged-landing/SafetySection";
-import { WaitlistSection } from "./hugged-landing/WaitlistSection";
-import { PartnerSection } from "./hugged-landing/PartnerSection";
 import { FAQSection } from "./hugged-landing/FAQSection";
-import { TestimonialsSection } from "./hugged-landing/TestimonialsSection";
-import { FinalCtaSection } from "./hugged-landing/FinalCtaSection";
 import { scrollIntoSection } from "./hugged-landing/shared";
+import { WaitlistSection } from "./hugged-landing/WaitlistSection";
+import { FinalCtaSection } from "./hugged-landing/FinalCtaSection";
 
 export function HuggedLanding() {
   const lenisRef = useRef<Lenis | null>(null);
@@ -71,25 +57,12 @@ export function HuggedLanding() {
       <ComposeNav onNavigate={onNavigate} />
       <main>
         <Hero onNavigate={onNavigate} />
-        <SocialProofSection />
-        <ProblemSection />
         <HowHuggedHelpsSection />
-        <PlatformEcosystemSection />
-        <HowItWorksSection />
-        <AgeWiseSection />
-        <FeaturesSection />
-        <HomeschoolSection />
-        <CommunitySection />
-        <MeetupSection />
-        <ExpertNetworkSection />
-        <WebinarsSection />
-        <ResourceLibrarySection />
-        <SafetySection />
         <WaitlistSection />
-        <PartnerSection />
+        <FeaturesSection />
         <FAQSection />
-        <TestimonialsSection />
-        <FinalCtaSection />
+        <FinalCtaSection/>
+
       </main>
       <FooterSection />
     </div>

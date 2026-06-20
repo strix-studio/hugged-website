@@ -27,16 +27,8 @@ export function ComposeNav({ onNavigate }: { onNavigate: (id: string) => void })
   const messages = useTranslations();
   const [open, setOpen] = useState(false);
   const navItems = [
-    [messages.nav.theProblem, "problem"],
     [messages.nav.howHuggedHelps, "how-hugged-helps"],
-    [messages.nav.ecosystem, "ecosystem"],
-    [messages.nav.ageWiseGuidance, "age-wise"],
     [messages.nav.features, "features"],
-    [messages.nav.homeschooling, "homeschooling"],
-    [messages.nav.community, "community"],
-    [messages.nav.meetups, "meetups"],
-    [messages.nav.experts, "experts"],
-    [messages.nav.events, "events"],
     [messages.nav.waitlist, "waitlist"],
     [messages.nav.faq, "faq"],
   ] as const;

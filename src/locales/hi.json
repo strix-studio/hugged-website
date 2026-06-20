@@ -1,0 +1,271 @@
+{
+    "nav": {
+        "howHuggedHelps": "How Hugged helps",
+        "features": "Features",
+        "waitlist": "Waitlist",
+        "faq": "FAQ"
+    },
+    "hero": {
+        "eyebrow": "Soft support for modern parenting",
+        "headline": "You were never meant to parent alone.",
+        "description": "Daily guidance, activities, expert support, homeschooling communities, and real parent connections — all in one place.",
+        "primaryCta": "Join Waitlist",
+        "secondaryCta": "Watch Platform Overview",
+        "trust": [
+            "Expert-led",
+            "Homeschool support",
+            "Parent community"
+        ],
+        "badges": [
+            "Parents joining waitlist",
+            "Experts onboarding",
+            "Communities forming"
+        ],
+        "featureList": [
+            "Anonymous venting",
+            "Support groups",
+            "Homeschooling guidance",
+            "Expert sessions"
+        ],
+        "todayLabel": "Today",
+        "todayText": "A space to vent without judgement",
+        "metrics": [
+            {
+                "label": "Venting",
+                "value": "92%"
+            },
+            {
+                "label": "Comfort",
+                "value": "4.9"
+            },
+            {
+                "label": "Groups",
+                "value": "18"
+            }
+        ]
+    },
+    "helpCards": {
+        "parenting": {
+            "title": "Parenting",
+            "description": "Age-wise support, habits, feeding guidance, and developmental rhythms for every stage."
+        },
+        "homeschooling": {
+            "title": "Homeschooling",
+            "description": "Learning communities, worksheets, activities, and curriculum support for early years."
+        },
+        "experts": {
+            "title": "Experts",
+            "description": "Professional guidance from coaches, psychologists, consultants, and mentors."
+        },
+        "meetups": {
+            "title": "Meetups",
+            "description": "Real-world parent connections, local events, and gentle group discovery."
+        }
+    },
+    "features": {
+        "title": "A bento system that respects emotional bandwidth.",
+        "description": "Each tile has its own rhythm, but all of them hold the same principle: support motherhood without crowding it.",
+        "items": [
+            {
+                "title": "Daily Activities",
+                "description": "Softly curated prompts for play, learning, rest, and emotional connection.",
+                "tone": "mint"
+            },
+            {
+                "title": "Feeding Support",
+                "description": "Practical guidance for breastfeeding, bottles, solids, and nurturing routines.",
+                "tone": "coral"
+            },
+            {
+                "title": "Development Tracking",
+                "description": "Milestones, growth checks, and calm progress narratives for each age.",
+                "tone": "mint"
+            },
+            {
+                "title": "Homeschooling Hub",
+                "description": "Learning groups, curriculum support, and resource bundles for early education.",
+                "tone": "coral"
+            },
+            {
+                "title": "Parent Communities",
+                "description": "Village-style circles, safe spaces, and discussion rooms for real connection.",
+                "tone": "mint"
+            },
+            {
+                "title": "Parent Meetups",
+                "description": "Local connections, event discovery, and gentle gathering planning.",
+                "tone": "coral"
+            },
+            {
+                "title": "Expert Consultations",
+                "description": "Parenting coaches, psychologists, nutritionists, and early learning guides.",
+                "tone": "mint"
+            },
+            {
+                "title": "Resource Library",
+                "description": "Guides, worksheets, checklists, templates, and articles for each season.",
+                "tone": "coral"
+            },
+            {
+                "title": "Webinars",
+                "description": "Live talks, workshops, and Q&A sessions that feel calm and actionable.",
+                "tone": "mint"
+            },
+            {
+                "title": "Emotional Support",
+                "description": "Moderated, anonymous spaces designed to protect parents and children.",
+                "tone": "coral"
+            }
+        ]
+    },
+    "waitlist": {
+        "eyebrow": "Join the waitlist",
+        "title": "A calm sign-up for the Hugged launch community.",
+        "description": "Share a little about your family so we can invite you into the most relevant support group, expert updates, and early access offers.",
+        "fields": [
+            "Name",
+            "Email",
+            "Mobile",
+            "Parent Type",
+            "Child Age",
+            "Interested In"
+        ],
+        "submit": "Continue to Google Form",
+        "note": "This button opens the Hugged waitlist Google Form so your information can be collected directly in Sheets.",
+        "benefits": [
+            {
+                "title": "Early Access to Circles",
+                "description": "Be matched into safe, stage-specific support circles before public release."
+            },
+            {
+                "title": "Direct Expert Connection",
+                "description": "Get direct access to professional coaches, mentors, and child specialists."
+            },
+            {
+                "title": "Foundational Member Status",
+                "description": "Enjoy locked-in preview pricing and free curriculum resource bundles."
+            }
+        ],
+        "timeline": {
+            "title": "What happens after signup?",
+            "steps": [
+                {
+                    "step": "1",
+                    "title": "Soft Verification",
+                    "description": "We review waitlist entries to ensure a safe, aligned parent community."
+                },
+                {
+                    "step": "2",
+                    "title": "Circle Matchmaking",
+                    "description": "We match you with parenting or homeschooling groups matching your stage."
+                },
+                {
+                    "step": "3",
+                    "title": "Early Launch Invite",
+                    "description": "You receive early access to the platform and foundational webinars."
+                }
+            ]
+        },
+        "thankYou": {
+            "eyebrow": "Thank you screen",
+            "title": "Welcome to Hugged.",
+            "description": "We will be in touch with early access updates, community invitations, and the next steps for your family."
+        }
+    },
+    "faq": {
+        "title": "Answers to the questions parents ask first.",
+        "description": "Everything from launch timing to homeschooling support, experts, meetups, and safety.",
+        "items": [
+            {
+                "question": "When will Hugged launch?",
+                "answer": "Hugged is currently inviting early access members and building the platform launch experience. Join the waitlist to receive the most up-to-date launch details."
+            },
+            {
+                "question": "How much will membership cost?",
+                "answer": "We are designing pricing to feel supportive and accessible. Early waitlist members will receive preview pricing and foundational access offers."
+            },
+            {
+                "question": "Is Hugged available in India?",
+                "answer": "Yes. Hugged is built for Indian parenting communities, homeschooling families, and local support networks."
+            },
+            {
+                "question": "Can I join if I am pregnant or have a toddler?",
+                "answer": "Absolutely. Hugged supports parents from pregnancy through toddlerhood and early childhood with age-specific guidance."
+            },
+            {
+                "question": "What does homeschooling support include?",
+                "answer": "Homeschooling support includes learning groups, worksheets, activities, parent collaboration, and curriculum resources for early years."
+            },
+            {
+                "question": "Can I apply as an expert?",
+                "answer": "Yes. We are inviting parenting coaches, psychologists, lactation consultants, nutritionists, educators, and homeschool mentors."
+            },
+            {
+                "question": "How do meetups work?",
+                "answer": "Meetups are designed for local parents to discover events, connect safely, and join group activities in a moderated environment."
+            },
+            {
+                "question": "Will there be webinars and workshops?",
+                "answer": "Yes. Hugged will host free webinars, paid workshops, live Q&A sessions, and parenting masterclasses."
+            },
+            {
+                "question": "What kind of resources are available?",
+                "answer": "The library will include guides, worksheets, checklists, templates, and articles for emotional support and developmental learning."
+            },
+            {
+                "question": "Is my child’s information safe?",
+                "answer": "Yes. Hugged is built with no public child profiles and privacy controls to keep your family’s information secure."
+            },
+            {
+                "question": "Can I use Hugged if I homeschool?",
+                "answer": "Yes. Our homeschooling hub is tailored for parents seeking calm, community-driven early education support."
+            },
+            {
+                "question": "How does the parent community stay safe?",
+                "answer": "Communities are moderated, anonymous if desired, and created with guidelines that prioritize emotional safety."
+            },
+            {
+                "question": "Can I request a partnership?",
+                "answer": "Yes. Schools, educators, parenting organizations, and communities can apply to partner with Hugged."
+            },
+            {
+                "question": "What platforms will Hugged launch on?",
+                "answer": "Hugged is designed as a mobile-first experience with a web presence supporting lead capture, discovery, and early education."
+            },
+            {
+                "question": "Does Hugged offer anonymous discussions?",
+                "answer": "Yes. Anonymous discussions are part of our safer support spaces for parents who need to speak freely."
+            },
+            {
+                "question": "Can I sign up for webinar updates only?",
+                "answer": "Yes. There is a dedicated webinar updates list for parents who want event notifications."
+            },
+            {
+                "question": "How do I connect with experts?",
+                "answer": "Expert consultations are offered through the network of vetted professionals and guided support pathways."
+            },
+            {
+                "question": "Will there be workshops for sleep, feeding, and development?",
+                "answer": "Yes. The events schedule will include focused workshops on sleep, feeding, development, and early learning."
+            },
+            {
+                "question": "How can I invite my parent friends?",
+                "answer": "Share the waitlist and encourage them to join the community so you can discover support together."
+            },
+            {
+                "question": "How does Hugged help build trust?",
+                "answer": "By blending emotional storytelling, moderated spaces, expert guidance, and transparent privacy with every feature."
+            }
+        ]
+    },
+    "finalCta": {
+        "headline": "You were never supposed to do motherhood alone.",
+        "description": "Join Hugged and step into a calmer parenting journey with emotional support, gentle learning, expert guidance, and community that feels safe to return to.",
+        "primaryCta": "Join Hugged",
+        "secondaryCta": "Back to top",
+        "socialProof": "Join parents preparing for a calmer parenting journey.",
+        "dialogTitle": "Start with softness",
+        "dialogDescription": "Hugged is being shaped as a calm support ecosystem for modern motherhood. This action can represent early access, waitlist sign-up, or onboarding.",
+        "dialogNote": "The next step should feel gentle, clear, and emotionally safe."
+    }
+}
