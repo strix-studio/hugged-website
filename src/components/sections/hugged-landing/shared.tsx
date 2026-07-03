@@ -1,5 +1,6 @@
 import { motion, useReducedMotion, type Variants } from "framer-motion";
 import { cn } from "@/lib/utils";
+import React from "react";
 
 export const googleForms = {
   waitlist: "https://forms.gle/replace-with-waitlist-form",
@@ -29,7 +30,11 @@ export function Reveal({
   delay?: number;
 }) {
   const reducedMotion = useReducedMotion();
+  const [isMounted, setIsMounted] = React.useState(false);
 
+  React.useEffect(() => {
+    setIsMounted(true);
+  }, []);
   return (
     <motion.div
       className={className}
